@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
 IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -23,3 +24,6 @@ super-fast local IPC.
 This is a L4 based project for x86 and ARM architecture
 >>>>>>> 8811031ace3c29fbe251b4a35e278a1acce21888
 Modified by Luochuanzao
+=======
+This is a L4 based project for x86 and ARM architecture
+>>>>>>> origin/master
