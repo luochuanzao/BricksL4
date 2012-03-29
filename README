@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
 IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -18,3 +19,7 @@ Version 4 kernel API (currently code-named Version X.2), which is
 fully 32 and 64 bit clean, provides multiprocessor support, and
 super-fast local IPC.
 
+=======
+This is a L4 based project for x86 and ARM architecture
+>>>>>>> 8811031ace3c29fbe251b4a35e278a1acce21888
+Modified by Luochuanzao
